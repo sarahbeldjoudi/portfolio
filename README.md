@@ -1,4 +1,4 @@
-![loading](https://media.giphy.com/media/Mah9dFWo1WZX0WM62Q/giphy.gif)
+<img src="https://media.giphy.com/media/Mah9dFWo1WZX0WM62Q/giphy.gif" width="200" alt="loading">
 
 🇫🇷
 Mon portfolio est actuellement en construction, alors reste à l'affut pour les mises à jour ! ⚠️
