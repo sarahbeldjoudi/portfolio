@@ -1,3 +1,5 @@
+![loading](https://media.giphy.com/media/Mah9dFWo1WZX0WM62Q/giphy.gif)
+
 🇫🇷
 Mon portfolio est actuellement en construction, alors reste à l'affut pour les mises à jour ! ⚠️
 
